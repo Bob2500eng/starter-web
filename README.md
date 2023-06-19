@@ -15,3 +15,8 @@ As stated above, the main purpose is ...
 This is a simple web project, deployment can be ...
 
 ## How To Contribute
+
+
+### Copyright
+
+2014 Git.Training.
