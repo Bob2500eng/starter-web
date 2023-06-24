@@ -16,6 +16,8 @@ This is a simple web project, deployment can be ...
 
 ## How To Contribute
 
+Please fork this repository and then issue...
+
 
 ### Copyright
 
